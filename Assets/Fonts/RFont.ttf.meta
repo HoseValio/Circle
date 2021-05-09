@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 25eae74908937094398ee9942ccea7a3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cousine
+  fontNames:
+  - Cousine
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0d437e453080a5b40aed3b2411e43bf3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
